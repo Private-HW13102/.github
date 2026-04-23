@@ -11,5 +11,5 @@
 
 ### Содержание
 
-1. [Русский язык]()
+1. [Русский язык](https://github.com/Private-HW13102/Russian)
 2. [ВВИТ](https://github.com/Private-HW13102/VVIT)
