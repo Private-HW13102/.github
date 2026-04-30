@@ -13,3 +13,4 @@
 
 1. [Русский язык](https://github.com/Private-HW13102/Russian)
 2. [ВВИТ](https://github.com/Private-HW13102/VVIT)
+3. [1C Проект](https://github.com/Private-HW13102/1C-Project)
